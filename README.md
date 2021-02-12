@@ -1,4 +1,4 @@
-# Example of README
+# Example of README2
 
 *Add some comments here*
 
